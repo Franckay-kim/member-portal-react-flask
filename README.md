@@ -37,19 +37,19 @@ This project is a portfolio-safe version of a member portal architecture where a
 ## Screenshots
 
 ### Login Page
-![Login Page](docs/screenshots/login-page.png)
+![Login Page](member-portal-react-flask/docs/screenshots/login-page.png)
 
 ### Register Page
-![Register Page](docs/screenshots/register-page.png)
+![Register Page](member-portal-react-flask/docs/screenshots/register-page.png)
 
 ### Verify OTP Page
-![Verify OTP Page](docs/screenshots/verify-otp-page.png)
+![Verify OTP Page](member-portal-react-flask/docs/screenshots/verify-otp-page.png)
 
 ### Set Password Page
-![Set Password Page](docs/screenshots/set-password-page.png)
+![Set Password Page](member-portal-react-flask/docs/screenshots/set-password-page.png)
 
 ### Homepage Dashboard
-![Homepage Dashboard](docs/screenshots/homepage-dashboard.png)
+![Homepage Dashboard](member-portal-react-flask/docs/screenshots/homepage-dashboard.png)
 
 ## Project Structure
 
