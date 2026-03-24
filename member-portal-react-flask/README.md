@@ -9,6 +9,7 @@ This project is a portfolio-safe version of a member portal architecture where a
 ## Tech Stack
 
 ### Frontend
+
 - React
 - TypeScript
 - Vite
@@ -17,6 +18,7 @@ This project is a portfolio-safe version of a member portal architecture where a
 - React Router
 
 ### Backend
+
 - Python
 - Flask
 - Flask-CORS
